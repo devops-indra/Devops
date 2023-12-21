@@ -2,4 +2,11 @@ hello
 Git commnads are very impportat
 indrasenaReddy
 sai Viyansh
-Shruthi
+Shruth
+
+hello shruthi
+
+how are ypu 
+
+hello sai 
+what are doing 
